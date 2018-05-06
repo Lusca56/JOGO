@@ -10,7 +10,8 @@ private:
 
     Menu pmenu;
 
-    Usuario usuarios[4];
+    Usuario um;
+    Usuario dois;
 
     void inicializar();
 
