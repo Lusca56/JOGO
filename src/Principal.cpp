@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
-
+#include <stdio.h>
 #include "../include/Principal.h"
 
 using namespace std;
@@ -45,7 +45,7 @@ void Principal :: inicializar(){
             case 1:
 
                 cout << "Digite o nome do jogador: ";
-                scanf("%s", name);
+                cin >> name;
                 //gets(name);
                 pmenu.IncluaUsuario(&um, name);
                 cout << endl;

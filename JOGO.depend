@@ -147,3 +147,73 @@
 1525542961 source:c:\users\pinho\documents\github\jogo\src\vilao.cpp
 	"../include/vilao.h"
 
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\main.cpp
+	<iostream>
+	"include/Principal.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\principal.h
+	"../include/Menu.h"
+	"../include/Usuario.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\menu.h
+	"../include/Usuario.h"
+	"../include/ElUsuario.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\usuario.h
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\elusuario.h
+	"../include/Usuario.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\colisao.cpp
+	"../include/Colisao.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\colisao.h
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\controle.cpp
+	"../include/Controle.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\controle.h
+	"../include/heroi.h"
+	"../include/vilao.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\heroi.h
+	"Personagens.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\personagens.h
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\vilao.h
+	"Personagens.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\elusuario.cpp
+	<stdio.h>
+	"../include/ElUsuario.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\heroi.cpp
+	"../include/heroi.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\mapa.cpp
+	"../include/Mapa.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\mapa.h
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\menu.cpp
+	<stdio.h>
+	<iostream>
+	"../include/Menu.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\obstaculo.cpp
+	"../include/Obstaculo.h"
+
+1525625702 c:\users\pedro h. banali\source\repos\jogo\include\obstaculo.h
+	"Mapa.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\personagens.cpp
+	"../include/Personagens.h"
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\usuario.cpp
+	"../include/Usuario.h"
+	<string.h>
+
+1525625702 source:c:\users\pedro h. banali\source\repos\jogo\src\vilao.cpp
+	"../include/vilao.h"
+
